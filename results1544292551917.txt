@@ -1,0 +1,18 @@
+generation,# of moves until defeat playing first against minimax,# of moves until defeat playing second against minimax
+3127,13,10
+3128,15,20
+3129,19,10
+3130,25,18
+3131,21,28
+3132,19,18
+3133,21,28
+3134,13,12
+
+Time elapsed: 20066
+Parameters used:
+popSize = 100,
+keepNBest = 50,
+mutationRate = 0.2,
+crossoverRate = 0.7,
+maxMutation = 0.2,
+roundRobin = true
